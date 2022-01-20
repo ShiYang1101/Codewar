@@ -1,3 +1,3 @@
 # Codewar
 
-My attempts on codewat challenges.
+My attempts on codewar challenges.
